@@ -1,13 +1,13 @@
-# Assignment-1
-FinTech Case Study
-# FinTech Case Study
+## Assignment-1
 
-## The goal is to analyze the past, present and future of this company. I will be looking at their strengths, weaknesses, opportunities and threats. 
+## FinTech Case Study
 
-* Company: Solana 
+# The goal is to analyze the past, present and future of this company. I will be looking at their strengths, weaknesses, opportunities and threats. 
 
-* When was the company incorporated?
-	The company was created in November 2017.
+# Company: Solana 
+
+* When was the company incorporated?  
+The company was created in November 2017.
 * Who are the founders of the company?
 Solana was founded by Anatoly Yakovenko. He is the sole founder and the current CEO of Solana. 
 * How did the idea for the company (or project) come about?
