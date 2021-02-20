@@ -6,9 +6,9 @@
 
 # Company: Solana 
 
-* When was the company incorporated?  
+** When was the company incorporated? **    
 The company was created in November 2017.
-* Who are the founders of the company?  
+** Who are the founders of the company?**  
 Solana was founded by Anatoly Yakovenko. He is the sole founder and the current CEO of Solana. 
 * How did the idea for the company (or project) come about?  
 The name itself comes from Yakovenko’s favorite surfing spot, Solana Beach California. Yakovenko had spent most of his career in telecommunications and admits that at first, he wasn’t sold on the idea of cryptocurrency. Eventually he began mining Bitcoin and started to gain an understanding for how it worked. One night the idea for Solana just came to him in what he describes as a “caffeine induced fever dream at 4am”. The idea was that you could drastically improve blockchain transaction speeds by implementing a decentralized clock. 
